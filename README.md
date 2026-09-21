@@ -1,350 +1,277 @@
 # 🏠 PMP Learning Portfolio
 
-### Learning Project Management by Building HOME OS
+### Learning project management by building HOME OS
 
-Welcome to my PMP learning portfolio. ✨
+Hi, I’m Darling. 👋🏽
 
-I created this repository while working toward the Project Management
-Professional (PMP) certification through the Onward to Opportunity (O2O) /
-HomeFront Orange program.
+I created this repository while working toward my **Project Management Professional (PMP)** certification through the **Onward to Opportunity (O2O) / HomeFront Orange program**.
 
-I didn't want to only study project management terminology and memorize
-concepts for an exam.
+I didn’t want to only memorize PMP terminology or study concepts for an exam.
 
-I wanted to actually use them.
+I wanted to actually use what I was learning.
 
-So instead of creating a completely fictional project, I decided to apply
-what I'm learning to something I am already designing and building:
+So I decided to apply project management principles to something I am already designing and building:
 
-# HOME OS
+## ✨ HOME OS
 
-**HOME OS is a digital household operations and management application
-designed to bring the different systems of running a home into one place.**
+**HOME OS is a digital household management application designed to bring the different systems of running a home into one connected space.**
 
-This repository documents the project management side of that journey.
+This repository documents the **project management side** of building it.
 
 ---
 
-# 💜 Why HOME OS?
+## 💜 Why HOME OS?
 
-HOME OS started as an idea for making home management easier, but as the
-application grew, so did the number of decisions that had to be made.
+HOME OS started as an idea to make managing my home easier.
 
-There were features to prioritize.
+As the application grew, I quickly realized that building it involved much more than writing code.
 
-Requirements changed.
+There were:
 
-Some ideas worked.
+- Requirements to define
+- Features to prioritize
+- Stakeholders to consider
+- Technical dependencies
+- Bugs and issues
+- Risks
+- Changing requirements
+- Decisions about what should — and should not — be included
+- A scope that sometimes wanted to grow faster than the project 😂
 
-Some didn't.
+The more I learned about project management, the more I realized HOME OS was already giving me a real environment where I could practice it.
 
-Technical dependencies appeared.
-
-Things broke.
-
-Features had to be redesigned.
-
-And, of course... the scope kept trying to grow. 😂
-
-The more I learned about project management, the more I realized I was
-already dealing with many of the same things project managers deal with
-every day.
-
-HOME OS gives me a real project where I can practice:
-
-- Defining scope
-- Gathering requirements
-- Prioritizing work
-- Managing stakeholders
-- Identifying risks
-- Tracking issues
-- Managing changes
-- Understanding dependencies
-- Planning releases
-- Communicating progress
-- Measuring value
-- Documenting lessons learned
-
-Instead of just learning what these concepts mean, I can see how they
-actually affect a project.
+Instead of creating a fictional PMP project, I can apply what I’m learning to decisions I am actually making.
 
 ---
 
-# 🌱 What I'm Learning
+## 🪖 Where My Story Started
 
-My goal with this portfolio is to connect PMP concepts to work I am
-actually doing.
+Project management is new to me as a formal discipline, but many of the skills behind it are not.
 
-Throughout the project, I am practicing areas such as:
+My IT career started in the **U.S. Army as a 25U Signal Support Systems Specialist**, and later I became a Sergeant.
 
-- Project lifecycle management
+The Army gave me a foundation in:
+
+- Leadership
+- Accountability
+- Communication
+- Problem solving
+- Technical planning
+- Resource coordination
+- Risk awareness
+- Documentation
+- Working under changing priorities
+
+At the time, I didn’t call those things project management.
+
+I was focused on supporting the mission, solving problems, coordinating people and equipment, and making sure work got done.
+
+Now that I am studying PMP concepts, I can see how much of that experience connects.
+
+---
+
+## 🔗 Connecting My Experience
+
+After the Army, my career moved into:
+
+**Systems Administration → Systems Engineering → IAM → Cybersecurity & Compliance**
+
+Each role gave me a different perspective.
+
+I have been the person:
+
+- Supporting the user
+- Troubleshooting the system
+- Managing access
+- Working through technical problems
+- Looking at security requirements
+- Supporting compliance
+- Communicating with different teams
+- Figuring out how multiple pieces affect one another
+
+My career path has been a little nonlinear, but I’ve come to see that as one of my strengths.
+
+It has given me a more **holistic view of how people, technology, security, requirements, and business needs come together.**
+
+PMP is helping me put a framework around those experiences.
+
+---
+
+## 🌱 What I’m Learning
+
+As I build HOME OS, I’m using it to practice concepts such as:
+
+- Project life cycles
 - Stakeholder engagement
 - Scope management
 - Requirements management
 - Risk management
-- Schedule planning
-- Resource planning
 - Communication planning
-- Change management
-- Quality management
-- Agile and predictive approaches
+- Prioritization
 - Dependency management
 - Issue management
+- Change management
+- Agile and predictive approaches
+- Quality
 - Continuous improvement
-- Project closure
 - Value delivery
 
----
+The goal is not just to know what these terms mean.
 
-# 🏡 About the HOME OS Project
-
-HOME OS is being designed as a centralized digital system for managing
-household operations.
-
-The application brings several areas of home management together into one
-connected experience.
-
-Current and planned areas include:
-
-- Cleaning management
-- Daily household rhythms
-- Laundry routines
-- Household inventory
-- Shopping and restocking
-- Family calendar
-- Seasonal home management
-- Task assignment
-- Household members and profiles
-- Kids Mode
-- Progress tracking
-- Household status and dashboard reporting
-
-The application is also being built with persistent user data and account
-functionality so household information can eventually stay synchronized
-across users and devices.
+I want to understand **when to use them, why they matter, and how they affect a real project.**
 
 ---
 
-# 🛠️ Technology Behind HOME OS
+## 🏡 The HOME OS Project
 
-HOME OS is also a hands-on technical project.
+HOME OS is being built as a central place for managing household operations.
 
-The application currently uses or is being developed with:
+Some of the areas within the application include:
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
-- Visual Studio Code
-- Supabase
-- Authentication
-- Database-backed application data
+- 🧹 Cleaning management
+- 🧺 Laundry rhythms
+- 🛒 Household inventory and restocking
+- 📅 Family calendar
+- 🍂 Seasonal home management
+- 👨‍👩‍👧‍👦 Household profiles
+- ⭐ Task assignment
+- 🚀 Kids Mode
+- 📊 Household health and progress tracking
 
-This gives me an opportunity to practice project management while still
-working within the technical environments I enjoy.
+The application is being developed with:
+
+`HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `VS Code` • `Supabase`
+
+This allows me to practice project management while still working in a technical environment I enjoy.
 
 ---
 
-# 📋 PMP Project Artifacts
+## 📋 What I’ll Build in This Portfolio
 
-As I move through my PMP training, I will build project artifacts based on
-real HOME OS decisions and development work.
+As I move through PMP training, I’ll create project artifacts based on real HOME OS decisions.
 
-Planned artifacts include:
-
-### Project Foundation
+### 🌸 Project Foundation
 - Project Charter
 - Product Vision
 - Project Objectives
 - Success Criteria
 
-### Stakeholders & Communication
+### 🤝 People & Communication
 - Stakeholder Register
 - Stakeholder Analysis
 - Communication Plan
 - RACI Matrix
 
-### Scope & Requirements
+### 🎯 Scope & Planning
 - Scope Statement
-- Requirements Documentation
-- In-Scope / Out-of-Scope Definition
+- Requirements
 - Product Backlog
+- Project Roadmap
+- Milestones
 
-### Risk & Issue Management
+### ⚠️ Risk, Issues & Change
 - Risk Register
 - Issue Log
 - Dependency Log
-
-### Planning & Delivery
-- Project Roadmap
-- Milestone Plan
-- Release Planning
-- Prioritization Framework
-
-### Change Management
-- Change Requests
 - Change Log
-- Impact Analysis
-
-### Monitoring & Reporting
-- Project Status Reports
-- Progress Tracking
 - Decision Log
 
-### Project Learning
-- Lessons Learned
+### 📈 Monitoring & Learning
+- Project Status Reports
 - Retrospectives
+- Lessons Learned
 - Project Reflection
 
 ---
 
-# 🚦 Real Project Management Examples
+## 🚦Learning With a Real Project
 
-One of the reasons I chose HOME OS is because I don't have to invent
-project scenarios.
+One thing I really like about using HOME OS is that I don’t have to invent scenarios.
 
 They are already happening.
 
-Examples include:
+A feature may not work the way I expected.
 
-### 🔄 Changing Requirements
+A database dependency may affect another part of the application.
 
-As the application develops, features sometimes need to be redesigned after
-seeing how they work together.
+A requirement may change after I see the feature working.
 
-Instead of treating every new idea as something that automatically needs to
-be added, I am learning to evaluate:
+A new idea may be valuable — but not belong in the current scope.
 
-- Why the change is needed
-- What value it adds
-- What existing work it affects
-- Whether it belongs in the current release
-- What risks or dependencies it introduces
+Those moments are becoming opportunities to ask:
 
----
+> What changed?
 
-### ⚠️ Managing Issues
+> Why did it change?
 
-Development issues have included things such as:
+> Who does it affect?
 
-- User settings not saving correctly
-- Authentication problems
-- Database updates failing
-- Features not synchronizing as expected
-- UI components needing redesign
+> What is the risk?
 
-These give me real examples for practicing issue tracking, prioritization,
-root-cause thinking, and escalation.
+> What is the priority?
+
+> Does this belong in the project right now?
+
+That shift in thinking is one of the biggest things I want to take from this experience.
 
 ---
 
-### 🎯 Managing Scope
-
-HOME OS has a lot of possibilities.
-
-That also means there is always a risk of trying to build everything at
-once.
-
-One of the biggest things I am learning is that a good idea does not
-automatically belong in the current scope.
-
-Sometimes the right answer is:
-
-**Not yet.**
-
----
-
-# 📚 PMP Bootcamp Learning
-
-I am also documenting what I learn during my PMP Bootcamp and connecting
-those concepts back to HOME OS.
+## 📚 PMP Bootcamp Progress
 
 | Lesson | Focus | Status |
 |---|---|---|
 | 1 | PMP Introduction | 🟡 In Progress |
-| 2 | Project Life Cycles & Governance | ⚪ Upcoming |
-| 3 | Stakeholders, Vision & Communication | ⚪ Upcoming |
+| 2 | Life Cycles & Governance | ⚪ Upcoming |
+| 3 | Stakeholders & Communication | ⚪ Upcoming |
 | 4 | Teams, Conflict & Knowledge | ⚪ Upcoming |
-| 5 | Scope, Value, Resources, Finance & Risk | ⚪ Upcoming |
+| 5 | Scope, Value & Risk | ⚪ Upcoming |
 | 6 | Integrated Planning | ⚪ Upcoming |
 | 7 | Execution, Monitoring & Change | ⚪ Upcoming |
-| 8 | Business Environment, Improvement & Closure | ⚪ Upcoming |
+| 8 | Improvement & Project Closure | ⚪ Upcoming |
 | 9 | PMP Exam Preparation | ⚪ Upcoming |
 
 ---
 
-# 🧠 What I Want to Get Better At
+## 💭 A Little Reflection
 
-This project isn't about pretending I already know everything about project
-management.
+The Army taught me how to lead, adapt, communicate, take ownership, and figure things out.
 
-It's about documenting the process of learning it.
+My technical career taught me how to look at problems from multiple sides.
 
-I want to become better at:
+Now project management is teaching me how to bring those pieces together more intentionally.
 
-- Seeing the entire project instead of only the technical problem
-- Understanding how decisions affect different stakeholders
-- Communicating technical work clearly
-- Identifying risks earlier
-- Managing competing priorities
-- Controlling scope
-- Leading cross-functional work
-- Connecting project decisions to actual value
+I’m learning that I was already practicing parts of project management long before I knew the terminology.
+
+The PMP is giving me a framework to become better at planning, communicating, managing risk, leading work, and understanding how all the pieces of a project are interconnected.
+
+And HOME OS gives me somewhere real to practice it.
 
 ---
 
-# 💭 A Little Reflection
-
-My career has been nonlinear.
-
-I started in Army IT and later worked in systems administration, systems
-engineering, identity and access management, cybersecurity, and compliance.
-
-For a long time, I looked at those experiences as separate parts of my
-career.
-
-I'm starting to see them differently.
-
-Each role gave me another perspective on how systems, people, security,
-requirements, communication, and business needs are interconnected.
-
-Project management is helping me learn how to bring those perspectives
-together.
-
-That is one of the reasons I decided to pursue the PMP.
-
----
-
-# 🎓 Professional Development
+## 🎓 Professional Development
 
 My PMP training is being completed through the:
 
-**Onward to Opportunity (O2O) / HomeFront Orange Program**
+**Onward to Opportunity (O2O) / HomeFront Orange Program**  
+Syracuse University  
+**D’Aniello Institute for Veterans and Military Families (IVMF)**
 
-offered through Syracuse University's  
-**D'Aniello Institute for Veterans and Military Families (IVMF).**
+This repository is an independent learning project.
 
-This portfolio is an independent learning project.
+Course slides, proprietary course materials, practice exam questions, and other protected training content are **not reproduced here**.
 
-Course slides, proprietary training materials, practice questions, and
-other copyrighted course content are not reproduced in this repository.
-
-All project artifacts, reflections, examples, and documentation included
-here are my own work created to apply the concepts I am learning.
+All project artifacts, reflections, examples, and documentation in this repository are my own work created to apply what I am learning.
 
 ---
 
-# ✨ The Goal
+## ✨ My Goal
 
-By the end of this project, I don't just want to be able to say:
+By the end of this journey, I don’t just want to be able to say:
 
-> "I studied project management."
+> *“I studied project management.”*
 
-I want to be able to show:
+I want to be able to say:
 
-> **"Here is how I used project management to take a real idea, organize it,
-> manage its growth, work through changes and problems, and move it toward
-> delivery."**
+> **“I learned it, applied it, and here is the project that shows how.”**
 
-And HOME OS gives me the perfect place to learn how to do that.
+🏠 **HOME OS × PMP**
