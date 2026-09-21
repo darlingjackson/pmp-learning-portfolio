@@ -1,316 +1,350 @@
-# ✨ My PMP Bootcamp Roadmap
+# 🏠 PMP Learning Portfolio
 
-This page is where I’m keeping track of what I’m learning during my PMP Bootcamp through Onward to Opportunity (O2O) / HomeFront Orange.
+### Learning Project Management by Building HOME OS
 
-I don’t want this portfolio to just show that I studied for the PMP. I want it to show how I actually understand the concepts and how I would use them in a real technical project.
+Welcome to my PMP learning portfolio. ✨
 
-For my hands-on project, I’m applying what I learn to a simulated:
+I created this repository while working toward the Project Management
+Professional (PMP) certification through the Onward to Opportunity (O2O) /
+HomeFront Orange program.
 
-## 🔐 Secure IAM Modernization Project
+I didn't want to only study project management terminology and memorize
+concepts for an exam.
 
-This gives me a way to connect project management with the areas I already know — systems engineering, IAM, cloud, cybersecurity, compliance, and working across different teams.
+I wanted to actually use them.
 
----
+So instead of creating a completely fictional project, I decided to apply
+what I'm learning to something I am already designing and building:
 
-# 🌱 Lesson 1 — Getting Started
+# HOME OS
 
-### What I’m Learning
-- What the PMP certification is really about
-- What to expect from the exam
-- How the bootcamp is structured
-- How to approach the course
+**HOME OS is a digital household operations and management application
+designed to bring the different systems of running a home into one place.**
 
-### My Takeaway
-This first section is really about understanding the bigger goal.
-
-For me, the PMP is not just about getting another certification. I want to learn how to take the technical experience I already have and become better at planning, leading, communicating, and seeing the full picture of a project.
+This repository documents the project management side of that journey.
 
 ---
 
-# 🧭 Lesson 2 — The Big Picture
+# 💜 Why HOME OS?
 
-### What I’m Learning
-- What makes something a project
-- Project life cycles
-- Predictive, Agile, and hybrid approaches
-- Project governance
+HOME OS started as an idea for making home management easier, but as the
+application grew, so did the number of decisions that had to be made.
 
-### How I’m Applying It
-For my IAM modernization project, I want to figure out:
+There were features to prioritize.
 
-- Why this effort qualifies as a project
-- What the project life cycle would look like
-- Whether Agile, predictive, or hybrid makes the most sense
-- Who has authority to make decisions
-- How security and compliance requirements affect the project
+Requirements changed.
 
-### ✍🏽 Portfolio Piece
-`case-study/project-charter.md`
+Some ideas worked.
 
-### 💭 My Reflection
-One thing I’m already realizing is that technical work does not happen in isolation.
+Some didn't.
 
-Even if the technology works, the project can still fail if there is no clear direction, ownership, communication, or decision-making structure.
+Technical dependencies appeared.
 
----
+Things broke.
 
-# 🤝 Lesson 3 — Stakeholders, Vision & Communication
+Features had to be redesigned.
 
-### What I’m Learning
-- How to identify stakeholders
-- Understanding what different stakeholders need
-- Creating a shared vision
-- Communication planning
-- Managing expectations
-- Keeping people aligned
+And, of course... the scope kept trying to grow. 😂
 
-### How I’m Applying It
-For the IAM project, I would likely be working with:
+The more I learned about project management, the more I realized I was
+already dealing with many of the same things project managers deal with
+every day.
 
-- Project sponsor
-- Systems engineers
-- Cybersecurity team
-- IAM administrators
-- Application owners
-- Cloud engineers
-- ISSO / compliance team
-- Help desk
-- End users
-- Leadership
+HOME OS gives me a real project where I can practice:
 
-Each group cares about something different, so part of the job is understanding what they need and making sure the right information gets to the right people.
-
-### ✍🏽 Portfolio Pieces
-- `case-study/stakeholder-register.md`
-- `case-study/communications-plan.md`
-
-### 💭 My Reflection
-This is one area where my nonlinear career actually helps me.
-
-I’ve worked from the user support side, the systems side, and the security/compliance side, so I understand that the same project can look very different depending on who you are talking to.
-
----
-
-# 👥 Lesson 4 — Team, Conflict & Knowledge
-
-### What I’m Learning
-- Building and structuring teams
-- Leadership
-- Managing conflict
-- Knowledge transfer
-- Team collaboration
-
-### How I’m Applying It
-For my project, I want to think through:
-
-- Who owns what
-- Who makes decisions
-- Who needs to be consulted
-- How conflict gets escalated
-- How knowledge gets documented
-- How information is transferred before the project ends
-
-### ✍🏽 Portfolio Piece
-`case-study/raci-matrix.md`
-
-### 💭 My Reflection
-A good team does not mean everyone always agrees.
-
-I’m learning that managing conflict well is really about keeping the project moving while making sure people feel heard and the team stays focused on the goal.
-
----
-
-# 📋 Lesson 5 — Core Planning
-
-### What I’m Learning
-- Scope
-- Value
-- Risk
-- Resources
-- Finance
-- Compliance
-
-### How I’m Applying It
-For the IAM project, I’ll define:
-
-- What is included in the project
-- What is not included
-- What value the project should provide
-- What could go wrong
-- What resources are needed
-- What compliance requirements must be considered
-- What costs may affect the project
-
-### ✍🏽 Portfolio Pieces
-- `case-study/scope-statement.md`
-- `case-study/risk-register.md`
-
-### 💭 My Reflection
-This is where the project really starts to become real.
-
-It is easy to say, “We’re going to modernize IAM.”
-
-It is much harder — and much more important — to define exactly what that means.
-
----
-
-# 🗓️ Lesson 6 — Integrated Planning
-
-### What I’m Learning
-- Building an integrated project plan
-- Schedule management
-- Quality
-- Procurement
-- Delivery planning
-
-### My Project Milestones
-For my IAM modernization project, my high-level milestones may include:
-
-1. Requirements gathering
-2. Architecture review
-3. Environment configuration
-4. Application onboarding
-5. Authentication testing
-6. Security assessment
-7. User migration
-8. Production deployment
-9. Post-deployment validation
-
-### ✍🏽 Portfolio Piece
-`case-study/project-plan.md`
-
-### 💭 My Reflection
-This part connects a lot with how I naturally think.
-
-I like understanding what has to happen first, what depends on something else, and what could slow the project down.
-
----
-
-# 🚦 Lesson 7 — Execution, Monitoring & Change
-
-### What I’m Learning
-- Tracking project status
+- Defining scope
+- Gathering requirements
+- Prioritizing work
+- Managing stakeholders
+- Identifying risks
+- Tracking issues
 - Managing changes
-- Handling issues
-- Removing blockers
-- Monitoring progress
-- Using project artifacts
+- Understanding dependencies
+- Planning releases
+- Communicating progress
+- Measuring value
+- Documenting lessons learned
 
-### How I’m Applying It
-During the IAM project, I would track:
-
-- Progress
-- Risks
-- Issues
-- Changes
-- Dependencies
-- Technical blockers
-- Decisions
-
-### ✍🏽 Portfolio Pieces
-- `case-study/issue-log.md`
-- `case-study/status-report.md`
-- `case-study/change-log.md`
-
-### 💭 My Reflection
-This is the part that feels very familiar to me.
-
-In technical environments, things change. Problems come up. Something breaks. A dependency gets delayed.
-
-I’m learning how project management gives structure to that chaos instead of just reacting to it.
+Instead of just learning what these concepts mean, I can see how they
+actually affect a project.
 
 ---
 
-# 🌿 Lesson 8 — Business Environment, Improvement & Closure
+# 🌱 What I'm Learning
 
-### What I’m Learning
-- Organizational change
-- Business environment changes
-- Continuous improvement
-- Closing a project
-- Lessons learned
+My goal with this portfolio is to connect PMP concepts to work I am
+actually doing.
 
-### How I’m Applying It
-At the end of the IAM project, I want to document:
+Throughout the project, I am practicing areas such as:
 
-- What worked
-- What did not work
-- What should be improved next time
-- What still needs follow-up
-- Whether the project met its goals
-- What value was delivered
-
-### ✍🏽 Portfolio Pieces
-- `case-study/lessons-learned.md`
-- `case-study/project-closure.md`
-
-### 💭 My Reflection
-Finishing the technical work does not automatically mean the project is finished.
-
-Closure matters too.
-
-There should be a clear point where the work is reviewed, accepted, documented, and transitioned.
-
----
-
-# 🎯 Lesson 9 — PMP Exam Prep
-
-### My Focus
-- Review the major PMP concepts
-- Connect the concepts back to my case study
-- Identify weak areas
-- Build my study plan
-- Prepare for practice exams
-
-### 💭 My Reflection
-My goal is not to memorize random terms.
-
-I want to understand why the concepts work so I can recognize them on the exam and actually use them in real projects.
-
----
-
-# 🔐 My Capstone Project
-
-## Secure IAM Modernization Project
-
-Throughout this bootcamp, I’m applying what I learn to a simulated enterprise IAM modernization effort.
-
-The project combines:
-
-- Identity and Access Management
-- Systems engineering
-- Cloud
-- Cybersecurity
-- Compliance
-- Stakeholder communication
+- Project lifecycle management
+- Stakeholder engagement
+- Scope management
+- Requirements management
 - Risk management
-- Cross-functional teamwork
-- Project leadership
-
-The goal is to show how I would approach a technical project from both the engineering and project management side.
+- Schedule planning
+- Resource planning
+- Communication planning
+- Change management
+- Quality management
+- Agile and predictive approaches
+- Dependency management
+- Issue management
+- Continuous improvement
+- Project closure
+- Value delivery
 
 ---
 
-# 💜 My Progress
+# 🏡 About the HOME OS Project
+
+HOME OS is being designed as a centralized digital system for managing
+household operations.
+
+The application brings several areas of home management together into one
+connected experience.
+
+Current and planned areas include:
+
+- Cleaning management
+- Daily household rhythms
+- Laundry routines
+- Household inventory
+- Shopping and restocking
+- Family calendar
+- Seasonal home management
+- Task assignment
+- Household members and profiles
+- Kids Mode
+- Progress tracking
+- Household status and dashboard reporting
+
+The application is also being built with persistent user data and account
+functionality so household information can eventually stay synchronized
+across users and devices.
+
+---
+
+# 🛠️ Technology Behind HOME OS
+
+HOME OS is also a hands-on technical project.
+
+The application currently uses or is being developed with:
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Visual Studio Code
+- Supabase
+- Authentication
+- Database-backed application data
+
+This gives me an opportunity to practice project management while still
+working within the technical environments I enjoy.
+
+---
+
+# 📋 PMP Project Artifacts
+
+As I move through my PMP training, I will build project artifacts based on
+real HOME OS decisions and development work.
+
+Planned artifacts include:
+
+### Project Foundation
+- Project Charter
+- Product Vision
+- Project Objectives
+- Success Criteria
+
+### Stakeholders & Communication
+- Stakeholder Register
+- Stakeholder Analysis
+- Communication Plan
+- RACI Matrix
+
+### Scope & Requirements
+- Scope Statement
+- Requirements Documentation
+- In-Scope / Out-of-Scope Definition
+- Product Backlog
+
+### Risk & Issue Management
+- Risk Register
+- Issue Log
+- Dependency Log
+
+### Planning & Delivery
+- Project Roadmap
+- Milestone Plan
+- Release Planning
+- Prioritization Framework
+
+### Change Management
+- Change Requests
+- Change Log
+- Impact Analysis
+
+### Monitoring & Reporting
+- Project Status Reports
+- Progress Tracking
+- Decision Log
+
+### Project Learning
+- Lessons Learned
+- Retrospectives
+- Project Reflection
+
+---
+
+# 🚦 Real Project Management Examples
+
+One of the reasons I chose HOME OS is because I don't have to invent
+project scenarios.
+
+They are already happening.
+
+Examples include:
+
+### 🔄 Changing Requirements
+
+As the application develops, features sometimes need to be redesigned after
+seeing how they work together.
+
+Instead of treating every new idea as something that automatically needs to
+be added, I am learning to evaluate:
+
+- Why the change is needed
+- What value it adds
+- What existing work it affects
+- Whether it belongs in the current release
+- What risks or dependencies it introduces
+
+---
+
+### ⚠️ Managing Issues
+
+Development issues have included things such as:
+
+- User settings not saving correctly
+- Authentication problems
+- Database updates failing
+- Features not synchronizing as expected
+- UI components needing redesign
+
+These give me real examples for practicing issue tracking, prioritization,
+root-cause thinking, and escalation.
+
+---
+
+### 🎯 Managing Scope
+
+HOME OS has a lot of possibilities.
+
+That also means there is always a risk of trying to build everything at
+once.
+
+One of the biggest things I am learning is that a good idea does not
+automatically belong in the current scope.
+
+Sometimes the right answer is:
+
+**Not yet.**
+
+---
+
+# 📚 PMP Bootcamp Learning
+
+I am also documenting what I learn during my PMP Bootcamp and connecting
+those concepts back to HOME OS.
 
 | Lesson | Focus | Status |
 |---|---|---|
-| 1 | Introduction | 🟡 In Progress |
-| 2 | Life Cycles & Governance | ⚪ Upcoming |
-| 3 | Stakeholders & Communication | ⚪ Upcoming |
-| 4 | Team & Conflict | ⚪ Upcoming |
-| 5 | Scope, Value & Risk | ⚪ Upcoming |
+| 1 | PMP Introduction | 🟡 In Progress |
+| 2 | Project Life Cycles & Governance | ⚪ Upcoming |
+| 3 | Stakeholders, Vision & Communication | ⚪ Upcoming |
+| 4 | Teams, Conflict & Knowledge | ⚪ Upcoming |
+| 5 | Scope, Value, Resources, Finance & Risk | ⚪ Upcoming |
 | 6 | Integrated Planning | ⚪ Upcoming |
-| 7 | Execution & Change | ⚪ Upcoming |
-| 8 | Improvement & Closure | ⚪ Upcoming |
-| 9 | PMP Exam Prep | ⚪ Upcoming |
+| 7 | Execution, Monitoring & Change | ⚪ Upcoming |
+| 8 | Business Environment, Improvement & Closure | ⚪ Upcoming |
+| 9 | PMP Exam Preparation | ⚪ Upcoming |
 
 ---
 
-## 🌸 A Note to Myself
+# 🧠 What I Want to Get Better At
 
-My career has not been a straight line, but I’m starting to see that as an advantage.
+This project isn't about pretending I already know everything about project
+management.
 
-I’ve worked in support, systems administration, systems engineering, IAM, cybersecurity, and compliance. Each role has given me a different view of how technology, people, security, and business needs come together.
+It's about documenting the process of learning it.
 
-This portfolio is my way of connecting all of those pieces while I grow into project management.
+I want to become better at:
+
+- Seeing the entire project instead of only the technical problem
+- Understanding how decisions affect different stakeholders
+- Communicating technical work clearly
+- Identifying risks earlier
+- Managing competing priorities
+- Controlling scope
+- Leading cross-functional work
+- Connecting project decisions to actual value
+
+---
+
+# 💭 A Little Reflection
+
+My career has been nonlinear.
+
+I started in Army IT and later worked in systems administration, systems
+engineering, identity and access management, cybersecurity, and compliance.
+
+For a long time, I looked at those experiences as separate parts of my
+career.
+
+I'm starting to see them differently.
+
+Each role gave me another perspective on how systems, people, security,
+requirements, communication, and business needs are interconnected.
+
+Project management is helping me learn how to bring those perspectives
+together.
+
+That is one of the reasons I decided to pursue the PMP.
+
+---
+
+# 🎓 Professional Development
+
+My PMP training is being completed through the:
+
+**Onward to Opportunity (O2O) / HomeFront Orange Program**
+
+offered through Syracuse University's  
+**D'Aniello Institute for Veterans and Military Families (IVMF).**
+
+This portfolio is an independent learning project.
+
+Course slides, proprietary training materials, practice questions, and
+other copyrighted course content are not reproduced in this repository.
+
+All project artifacts, reflections, examples, and documentation included
+here are my own work created to apply the concepts I am learning.
+
+---
+
+# ✨ The Goal
+
+By the end of this project, I don't just want to be able to say:
+
+> "I studied project management."
+
+I want to be able to show:
+
+> **"Here is how I used project management to take a real idea, organize it,
+> manage its growth, work through changes and problems, and move it toward
+> delivery."**
+
+And HOME OS gives me the perfect place to learn how to do that.
